@@ -41,7 +41,7 @@ OpenCV, PCL (Point Cloud Library), NumPy, Pandas, Scikit-learn, TensorFlow
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NotAHeretic&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NotAHeretic&show_icons=true&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NotAHeretic&theme=default)
 ---
