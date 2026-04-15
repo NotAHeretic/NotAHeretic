@@ -1,9 +1,8 @@
 # Hi there, I'm Abhijit
 
-## Robotics Software Engineer | ROS 2 | SLAM | Autonomous Navigation
+## Robotics Developer | ROS 2 | SLAM | Autonomous Navigation
 
-Robotics Software Engineer focused on building autonomous systems using ROS 2, with practical experience in navigation and robot control.
-
+Experience in building autonomous mobile robots, including navigation, control, and system integration using ROS 2.
 ---
 
 ## About Me
